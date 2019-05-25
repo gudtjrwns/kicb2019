@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c82f1ec71a2c9e5af8b00fe5fe27f57e",
+      "css": "hand-grab-o",
+      "code": 62037,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "abf08be829659c02d1f9a711daefa8ce",
+      "css": "hand-paper-o",
+      "code": 62038,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "45g23adv6rwe7nokwek4d471h8y09ayz",
+      "css": "link",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "bc50457410acf467b8b5721240768742",
+      "css": "facebook",
+      "code": 62220,
+      "src": "entypo"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2e9c0fdd4d59598cb122801ab80222e7",
+      "css": "pinterest-circled",
+      "code": 62227,
+      "src": "entypo"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "47a1f80457068fbeab69fdb83d7d0817",
+      "css": "youtube-play",
+      "code": 61802,
+      "src": "fontawesome"
+    }
+  ]
+}
